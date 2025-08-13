@@ -1,12 +1,4 @@
-# Hi there 👋, I'm Krishi Patel
 
-
-
-### 👨‍💻 About Me
-- 🌱 Currently learning **React** & **Node.js** &
-- 💼 Built projects in **Laravel**, **PHP**, **E-commerce Platforms**
-- 📫 How to reach me: **krishipatel197@gmail.com**
-- ⚡ Fun fact: I love solving coding challenges late at night!
 
 
 
@@ -15,12 +7,12 @@
 krishipatel500/krishipatel500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🛠 Skills & Tools
 
-**Languages:** PHP, JavaScript, HTML, CSS  
-**Frameworks:** Laravel, React, Node.js  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman
+### 👨‍💻 About Me
+- 🌱 Currently learning **React** & **Node.js** &
+- 💼 Built projects in **Laravel**, **PHP**, **E-commerce Platforms**
+- 📫 How to reach me: **krishipatel197@gmail.com**
+- ⚡ Fun fact: I love solving coding challenges late at night!
 
 
 <!-- Profile Banner -->
@@ -31,6 +23,13 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+
+🛠 Skills & Tools
+
+**Languages:** PHP, JavaScript, HTML, CSS  
+**Frameworks:** Laravel, React, Node.js  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code, Postman
 
 
 ### 🛠 Tech Stack
